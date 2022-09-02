@@ -1,6 +1,6 @@
 
 // initialize
-git add
+git init
 git config --global user.name "your git nickname" 
 git config --global user.email "your git email"
 
