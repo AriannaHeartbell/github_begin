@@ -9,6 +9,7 @@ git status
 git log
 
 // staging
+git add .(all file)
 git add XX(your file)
 
 //commit
@@ -22,6 +23,6 @@ git revert 'commit number(six)'
 git remote add origin https://github.com/your name/your repository.git
 
 //push
-git push -f origin master //force.
+git push origin master
 
 final_2m
