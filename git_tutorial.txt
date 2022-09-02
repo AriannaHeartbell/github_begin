@@ -1,8 +1,8 @@
 
 // initialize
 git init
-git config --global user.name "your git nickname" 
-git config --global user.email "your git email"
+git config --global user.name <your git nickname>
+git config --global user.email <your git email>
 
 // status check
 git status
@@ -22,8 +22,9 @@ git revert 'commit number(six)'
 //repository
 git remote add origin https://github.com/your name/your repository.git
 
-//push
-git push origin master
+//push & pull
+git push origin <your branch>
+git push origin <your branch>
 
 //
 final
