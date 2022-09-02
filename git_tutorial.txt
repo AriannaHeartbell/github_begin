@@ -18,7 +18,10 @@ git commit -m "your message"
 git reset 'commit number(six)' --hard // the commands delete log so you cannot back to the future.
 git revert 'commit number(six)'
 
+//repository
+git remote add origin https://github.com/your name/your repository.git
+
 //push
-git push -f origin master
+git push -f origin master //force.
 
 final.
