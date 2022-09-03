@@ -24,7 +24,7 @@ git remote add origin https://github.com/your name/your repository.git
 
 //push & pull
 git push origin <your branch>
-git push origin <your branch>
+git pull origin <your branch>
 
 //
 final
