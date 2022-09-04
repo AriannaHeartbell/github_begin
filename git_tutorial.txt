@@ -1,30 +1,42 @@
 
-// initialize
-git init
-git config --global user.name <your git nickname>
-git config --global user.email <your git email>
 
-// status check
-git status
-git log
 
-// staging
-git add .(all file)
-git add XX(your file)
 
-//commit
-git commit -m "your message"
 
-//back
-git reset 'commit number(six)' --hard // the commands delete log so you cannot back to the future.
-git revert 'commit number(six)'
 
-//repository
-git remote add origin https://github.com/your name/your repository.git
 
-//push & pull
-git push origin <your branch>
-git pull origin <your branch>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//branch: master branch default.
+git branch <brance name> // make branch
+git checkout <branch name> // change branch
+git branch // check all branch
+git branch -D <branch name> // remove branch
+
+// branch merge, rebase
+git merge <branch name>
+git rabase <branch name>
+
 
 //
 final
