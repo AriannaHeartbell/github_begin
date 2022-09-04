@@ -1,0 +1,5 @@
+//make branch
+git branch <brance name>
+
+//change branch
+git checkout <branch name>
