@@ -1,5 +1,0 @@
-//make branch2
-git branch <brance name2>
-
-//change branch2
-git checkout <branch name2>
