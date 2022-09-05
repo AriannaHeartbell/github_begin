@@ -10,7 +10,7 @@ git log
 
 // staging
 git add .(all file)
-git add XX(your file)
+git add XX(your file, forlder)
 
 //commit
 git commit -m "your message"
